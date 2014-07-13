@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Where the Words are Missing"
-date:   2014-02-12 12:00:00
+date:   2013-02-12 12:00:00
 categories: Character
 ---
 {% highlight text %}
