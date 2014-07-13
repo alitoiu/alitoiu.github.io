@@ -2,10 +2,10 @@
 layout: post
 title:  "The Best Way To Teach"
 date:   2014-03-07 12:00:00
-categories: jekyll update
+categories: Character
 ---
 
-{% highlight ruby %}
+{% highlight text %}
 Well done is better than well said
 
 - Benjamin Franklin
