@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "The Best Way to Teach"
+layout: project
+title:  "The Best Way to Teach2"
 date:   2014-03-07 12:00:00
 categories: Character
 ---
