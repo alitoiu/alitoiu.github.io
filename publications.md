@@ -4,8 +4,15 @@ title: Publications
 permalink: /publications/
 navigation_index: 2
 ---
+
+##Peer-Reviewed Publications
+
 <div class="publications">
 	<ul>
+		<li>
+		Bradley Hayes, Elena Corina Grigore, <strong>Alexandru Litoiu</strong>, Aditi Ramachandran, Brian Scassellati. 2014. A Developmentally Inspired Transfer Learning Approach for Skill Proficiency Assessment. In 4th International Conference on Development and Learning and on Epigenetic Robotics (ICDL 2014). IEEE, Genoa, Italy
+		</li>
+
 		<li>
 		<strong>Alexandru Litoiu</strong>, Brian Scassellati. 2014. Personalized Instruction of Physical Skills with a Social Robot. In Proceedings of the 3rd Workshop on Machine Learning for Interactive Systems: Bridging the Gap between Perception, Action and Communication (MLIS '14) in Workshops at the Twenty-Eighth AAAI Conference on Artificial Intelligence. ACM, Quebec City, QC, Canada
 		[<a href="http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/download/8719/8312">pdf</a>]
@@ -17,3 +24,11 @@ navigation_index: 2
 		</li>
 	</ul>
 </div>
+
+##Posters
+Posters here
+
+##Talks
+Talks here
+
+

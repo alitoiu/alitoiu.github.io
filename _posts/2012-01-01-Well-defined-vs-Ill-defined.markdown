@@ -15,7 +15,7 @@ There exists another class of problems: those, which are ill defined. Ill-define
 
 A notable example of this class of problems is entrepreneurship. An entrepreneur can enter any market she wishes with any product she can develop. Her competitors may respond in an infinite number of ways, and she can only guess how her customers will react. If the entrepreneur doesnâ€™t understand her market, she may build a solution to a problem that her market doesnâ€™t have. So, for every unit of effort that the entrepreneur puts into moving the company forward, she must also dedicate a unit of time into understanding the rules of the market, and deciding which way forward is. This extra work is a sort of overhead, which is intrinsic in ill-defined problems, but not in well-defined problems. 
 
-Outward Focus
+##Outward Focus
 
 To perform well in well-defined problems, it is favorable to focus inwardly. In order to put in the huge amount of practice required to excel in a well-defined domain, one needs to be inward focused in order to ignore distractions. The problem is already well defined. All that remains is to execute well within that definition, and that takes practice. If a chess player became too interested in what her peers did in their free time, she would lose the focus required to put the countless hours required into her craft. The same is obviously true in sports. This is why chess players are often less social than average and successful athletes tend to be self-centered. 
 
