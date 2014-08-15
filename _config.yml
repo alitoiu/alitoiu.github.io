@@ -5,7 +5,8 @@ description: "Write an awesome description for your new site here. You can edit 
 baseurl: ""
 url: "http://alitoiu.com"
 twitter_username: alitoiu
-github_username:  alitoiu
+goodreads_url: https://www.goodreads.com/review/list/9197254
+linkedin_url: http://www.linkedin.com/pub/alex-litoiu/54/2a7/2
 
 # Build settings
 markdown: kramdown
@@ -14,4 +15,5 @@ permalink: pretty
 excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
 
 collections:
-- projects
+  projects:
+    output: true

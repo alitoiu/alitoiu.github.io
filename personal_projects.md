@@ -7,9 +7,10 @@ permalink: /personal_projects/
 <div class="home">
 
   <ul class="posts">
-    {% for project in site.projects %}
+    {% assign sorted_projects = site.projects | sort: 'date' %}
+    {% for project in sorted_projects reversed %}
       <li>
-        <span class="post-date">{{ project.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-date">{{ project.date | date: "%Y" }}</span>
         <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
       </li>
     {% endfor %}
