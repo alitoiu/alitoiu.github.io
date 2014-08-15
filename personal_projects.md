@@ -2,6 +2,7 @@
 layout: page
 title: Personal Projects
 permalink: /personal_projects/
+navigation_index: 1
 ---
 
 <div class="home">

@@ -2,7 +2,18 @@
 layout: page
 title: Publications
 permalink: /publications/
+navigation_index: 2
 ---
+<div class="publications">
+	<ul>
+		<li>
+		<strong>Alexandru Litoiu</strong>, Brian Scassellati. 2014. Personalized Instruction of Physical Skills with a Social Robot. In Proceedings of the 3rd Workshop on Machine Learning for Interactive Systems: Bridging the Gap between Perception, Action and Communication (MLIS '14) in Workshops at the Twenty-Eighth AAAI Conference on Artificial Intelligence. ACM, Quebec City, QC, Canada
+		[<a href="http://www.aaai.org/ocs/index.php/WS/AAAIW14/paper/download/8719/8312">pdf</a>]
+		</li>
 
-Here you can find all of my publications!
-
+		<li>
+		Elaine Short, Katelyn Swift-Spong, Jillian Greczek, Aditi Ramachandran, <strong>Alexandru Litoiu</strong>, Elena Corina Grigore, David Feil-Seifer, Samuel Shuster, Jin Joo Lee, Shaobo Huang, Svetlana Levonisova, Sarah Litz, Jamy Li, Gisele Ragusa, Donna Spruijt-Metz, Maja Mataric, Brian Scassellati. 2014. How to Train Your DragonBot: Socially Assistive Robots for Teaching Children About Nutrition Through Play. In Robot and Human Interactive Communication, 2014 (ROMAN 2014). IEEE, Edinburgh, United Kingdom
+		[<a href="http://robotics.usc.edu/publications/media/uploads/pubs/ro-man2014-expeditions.pdf">pdf</a>]
+		</li>
+	</ul>
+</div>

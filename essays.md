@@ -2,6 +2,7 @@
 layout: page
 title: Essays
 permalink: /essays/
+navigation_index: 3
 ---
 
 <div class="home">
