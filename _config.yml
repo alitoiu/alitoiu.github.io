@@ -8,6 +8,8 @@ twitter_username: alitoiu
 goodreads_url: https://www.goodreads.com/review/list/9197254
 linkedin_url: http://www.linkedin.com/pub/alex-litoiu/54/2a7/2
 
+dropbox_url: https://dl.dropboxusercontent.com/u/4354160/alitoiu/
+
 # Build settings
 markdown: kramdown
 permalink: pretty
