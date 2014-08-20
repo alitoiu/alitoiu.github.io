@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Curriculum Vitae
-permalink: /cv/
+external_link: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Curriculum_Vitae/cv.pdf
 navigation_index: 4
 ---
 
-Here is my cv
-
+Please click the link in the main navigation bar to access this item.
