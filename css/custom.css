@@ -10,3 +10,8 @@ img.profile {
 	float:left;
 	margin: 2% 5% 2% 0%;
 }
+
+figure figcaption{
+	text-align: center;
+	font-style: italic;
+}
