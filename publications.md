@@ -61,3 +61,6 @@ navigation_index: 2
 		</li>
 	</ul>
 </div>
+
+<img src="{{site.dropbox_url}}Pictures/color.jpg" class="fullwidth"/>
+
