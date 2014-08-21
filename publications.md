@@ -62,5 +62,7 @@ navigation_index: 2
 	</ul>
 </div>
 
+<figure>
 <img src="{{site.dropbox_url}}Pictures/color.jpg" class="fullwidth"/>
-
+<figcaption>Presenting a robot demo to a group of children at the World Science Festival in New York City, 2014</figcaption>
+</figure>
