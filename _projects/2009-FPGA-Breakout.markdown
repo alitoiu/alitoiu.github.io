@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "FPGA Brick Breaker"
+title:  "FPGA Breakout"
 date:   2009-01-01 12:00:00
 ---
 <div class="video-container">
