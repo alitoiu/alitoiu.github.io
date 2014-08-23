@@ -3,6 +3,7 @@ layout: project
 title:  "Habit Droid"
 accolade1: "Over 10,000 Users"
 thumbnail_rel_path: "Personal_Projects/Habit_Droid/thumbnail.jpg"
+description: "Android application to track and graph important life habits"
 date:   2010-01-01 12:00:00
 ---
 

@@ -106,41 +106,43 @@ figure figcaption{
 		text-align: center;
 	}
 
-	.post_content {
+	.list-page-content .post_content {
 		text-align: center;
 	}
 
-	.post_content p {
+	.list-page-content .post_content p {
 		text-align: center;
 	}
 
-	.post-content ul, .post-content ol{
+	.list-page-content .post-content ul, .post-content ol{
 		padding-left: 0px;
 		text-align: center;
 	}
 
-	.post ul, .post ol{
+	.list-page-content .post ul, .post ol{
 		margin-left: 0px;
 	}
 
-	.projects li .date{
+	.list-page-content .projects li .date{
 		display: block;
 		float:none;
 	}
 
-	.projects li {
+	.list-page-content .projects li {
 		text-align: center;
 	}
 
-	.projects img {
+	.list-page-content .projects img {
 		margin-left: auto;
 		margin-right: auto;
 		display: block;
 	}
 
+
 	.thumbnail {
 		float: none;
 		display: block;
 	}
+
 }
 

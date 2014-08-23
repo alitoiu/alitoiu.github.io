@@ -1,8 +1,9 @@
 ---
 layout: project
-title:  "Twitter Sentiment Analysis Stock Market Prediction"
+title:  "Twitter Stock Market Prediction"
 thumbnail_rel_path: "Personal_Projects/Twitter_Stock_Market/thumbnail.jpg"
-accolade1: "Outstanding Design Project of the Year in University of Toronto ECE"
+accolade1: "Outstanding Design Project of the Year, UofT ECE"
+description: "Predicting the NASDAQ based on sentiment analysis of 250 Million tweets"
 date:   2011-01-01 12:00:00
 ---
 
