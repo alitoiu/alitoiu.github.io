@@ -24,20 +24,24 @@ navigation_index: 1
         {% endif %}
     </a>
 
-    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
-    	{{project.title}}
-	</a>
+    <div class="list-content">
 
-    <span class="description">
-    	{{project.description}}
-	</span>
+	    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
+	    	{{project.title}}
+		</a>
 
-	{% if project.accolade1 %}
-	<span class="accolade">
-		<img src="http://png-2.findicons.com/files/icons/2799/flat_icons/256/trophy.png"/>
-		<p>{{ project.accolade1 }}</p>
-	</span>
-	{% endif %}
+	    <span class="description">
+	    	{{project.description}}
+		</span>
+
+		{% if project.accolade1 %}
+		<span class="accolade">
+			<img src="http://png-2.findicons.com/files/icons/2799/flat_icons/256/trophy.png"/>
+			<p>{{ project.accolade1 }}</p>
+		</span>
+		{% endif %}
+
+	</div>
 
   </li>
 {% endfor %}

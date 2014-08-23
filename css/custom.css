@@ -47,7 +47,7 @@ figure figcaption{
 
 .projects li {
 	overflow: auto;
-	padding: 4%;
+	padding: 3%;
 	margin: 0%;
 
 	border-color: #EFEFEF;
@@ -62,17 +62,21 @@ figure figcaption{
 .projects li.odd{
 }
 
+.projects li .list-content{
+}
+
 .projects li a {
 	vertical-align: center;
 }
 
 .projects li .accolade{
 	overflow: auto;
+	display: inline-block;
 }
 
 .projects li .accolade img {
-	width:20px;
-	height:20px;
+	width:0.9em;
+	height:0.9em;
 	display: inline;
 }
 
@@ -82,9 +86,14 @@ figure figcaption{
 
 .thumbnail {
 	float: left;
-	width:100px;
-	height:100px;
-	margin: 0% 3% 3% 0%;
+	width:75px;
+	height:75px;
+	margin: 0% 3% 0% 0%;
+}
+
+.thumbnail-header .thumbnail {
+	width: 100px;
+	height: 100px;
 }
 
 .projects li .title {
@@ -141,7 +150,12 @@ figure figcaption{
 
 	.thumbnail {
 		float: none;
+		margin-bottom: 2%;
 		display: block;
+	}
+
+	.projects li .title {
+		margin-bottom: 1%;
 	}
 
 }
