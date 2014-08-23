@@ -1,3 +1,8 @@
+.thumbnail-header {
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
 .publications ul li { margin-bottom: 20px; }
 
 img.fullwidth {
@@ -30,4 +35,55 @@ figure figcaption{
 	left:0;
 	width:100%;
 	height:100%;
+}
+
+.projects li {
+	overflow: auto;
+	padding: 4%;
+	margin: 0%;
+
+	border-color: #EFEFEF;
+	border-style: solid;
+	border-width: 0px 0px 1px 0px;
+}
+
+.projects li.even{
+
+}
+
+.projects li.odd{
+}
+
+.projects li a {
+	vertical-align: center;
+}
+
+.projects li .accolade{
+	overflow: auto;
+}
+
+.projects li .accolade img {
+	width:20px;
+	height:20px;
+	display: inline;
+}
+
+.projects li .accolade p {
+	display: inline;
+}
+
+.thumbnail {
+	float:left;
+	width:100px;
+	height:100px;
+	margin-right: 2%;
+}
+
+.projects li .description {
+	display: block;
+	font-style: italic;
+}
+
+.projects li .date {
+	float:right;
 }
