@@ -26,7 +26,7 @@ navigation_index: 1
 
       	<span class="post-date date">{{ project.date | date: "%Y" }}</span>
 
-        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+        <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
         	{{project.title}}
     	</a>
 

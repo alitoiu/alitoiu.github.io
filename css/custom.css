@@ -73,10 +73,15 @@ figure figcaption{
 }
 
 .thumbnail {
-	float:left;
+	float: left;
 	width:100px;
 	height:100px;
 	margin-right: 2%;
+}
+
+.projects li .title {
+	display: inline-block;
+	font-style: italic;
 }
 
 .projects li .description {
