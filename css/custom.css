@@ -102,6 +102,27 @@ figure figcaption{
 }
 
 @media screen and (max-width: 700px) {
+	header.list-header {
+		text-align: center;
+	}
+
+	.post_content {
+		text-align: center;
+	}
+
+	.post_content p {
+		text-align: center;
+	}
+
+	.post-content ul, .post-content ol{
+		padding-left: 0px;
+		text-align: center;
+	}
+
+	.post ul, .post ol{
+		margin-left: 0px;
+	}
+
 	.projects li .date{
 		display: block;
 		float:none;

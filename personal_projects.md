@@ -1,48 +1,44 @@
 ---
-layout: page
+layout: list_page
 title: Personal Projects
 permalink: /personal_projects/
 navigation_index: 1
 ---
 
-<div class="home">
+<ul class="posts projects">
 
-  <ul class="posts projects">
+{% assign even = "even" %}
+{% assign sorted_projects = site.projects | sort: 'date' %}
+{% for project in sorted_projects reversed %}
+  {% if even == "even" %} {% assign even = "odd" %} 
+  {% else %} {% assign even = "even" %}
+  {% endif %}
 
-  	{% assign even = "even" %}
-    {% assign sorted_projects = site.projects | sort: 'date' %}
-    {% for project in sorted_projects reversed %}
-      {% if even == "even" %} {% assign even = "odd" %} 
-      {% else %} {% assign even = "even" %}
-      {% endif %}
+  <li class="{{ even }}">
 
-      <li class="{{ even }}">
+    <span class="post-date date">{{ project.date | date: "%Y" }}</span>
 
-	    <span class="post-date date">{{ project.date | date: "%Y" }}</span>
+    <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+    	{% if project.thumbnail_rel_path %}
+	    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
+        {% endif %}
+    </a>
 
-        <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
-	    	{% if project.thumbnail_rel_path %}
-		    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
-	        {% endif %}
-	    </a>
+    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
+    	{{project.title}}
+	</a>
 
-        <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
-        	{{project.title}}
-    	</a>
+    <span class="description">
+    	{{project.description}}
+	</span>
 
-        <span class="description">
-        	{{project.description}}
-    	</span>
+	{% if project.accolade1 %}
+	<span class="accolade">
+		<img src="http://png-2.findicons.com/files/icons/2799/flat_icons/256/trophy.png"/>
+		<p>{{ project.accolade1 }}</p>
+	</span>
+	{% endif %}
 
-    	{% if project.accolade1 %}
-		<span class="accolade">
-			<img src="http://png-2.findicons.com/files/icons/2799/flat_icons/256/trophy.png"/>
-			<p>{{ project.accolade1 }}</p>
-		</span>
-		{% endif %}
-
-      </li>
-    {% endfor %}
-  </ul>
-
-</div>
+  </li>
+{% endfor %}
+</ul>
