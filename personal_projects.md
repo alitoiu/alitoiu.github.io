@@ -18,13 +18,13 @@ navigation_index: 1
 
       <li class="{{ even }}">
 
+	    <span class="post-date date">{{ project.date | date: "%Y" }}</span>
+
         <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
 	    	{% if project.thumbnail_rel_path %}
 		    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
 	        {% endif %}
 	    </a>
-
-      	<span class="post-date date">{{ project.date | date: "%Y" }}</span>
 
         <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
         	{{project.title}}

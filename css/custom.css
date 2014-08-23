@@ -3,6 +3,14 @@
 	overflow: hidden;
 }
 
+.thumbnail-header h1 {
+	display: inline-block;
+	max-width: 670px;
+}
+
+.thumbnail-header p.meta{
+}
+
 .publications ul li { margin-bottom: 20px; }
 
 img.fullwidth {
@@ -76,7 +84,7 @@ figure figcaption{
 	float: left;
 	width:100px;
 	height:100px;
-	margin-right: 2%;
+	margin: 0% 3% 3% 0%;
 }
 
 .projects li .title {
@@ -92,3 +100,28 @@ figure figcaption{
 .projects li .date {
 	float:right;
 }
+
+@media screen and (max-width: 700px) {
+	.projects li .date{
+		display: block;
+		float:none;
+	}
+
+	.projects li {
+		text-align: center;
+	}
+
+	.projects img {
+		margin-left: auto;
+		margin-right: auto;
+		display: block;
+	}
+
+
+	.thumbnail {
+		float: none;
+		display: block;
+	}
+
+}
+
