@@ -47,7 +47,7 @@ figure figcaption{
 
 .projects li {
 	overflow: auto;
-	padding: 3%;
+	padding: 2%;
 	margin: 0%;
 
 	border-color: #EFEFEF;
@@ -71,7 +71,7 @@ figure figcaption{
 
 .projects li .accolade{
 	overflow: auto;
-	display: inline-block;
+	display: inline;
 }
 
 .projects li .accolade img {
