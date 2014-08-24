@@ -28,24 +28,25 @@ The main components of the game include:
 </div>
 
 ## Images
-<figure>
-{% assign url_results = "Personal_Projects/Brick_Breaker/DE2_Board.png" | prepend: site.dropbox_url %}
-<a href="{{url_results}}">
-<img src="{{url_results}}" class="fullwidth" f/>
-</a>
-<figcaption>Fig. 1 - Image of the Altera DE2 Board with Cyclone II FPGA
-</figcaption>
-</figure>
+<div class="fullwidth-gallery">
+	<figure>
+	{% assign url_results = "Personal_Projects/Brick_Breaker/DE2_Board.png" | prepend: site.dropbox_url %}
+	<a href="{{url_results}}">
+	<img src="{{url_results}}" />
+	</a>
+	<figcaption>Fig. 1 - Image of the Altera DE2 Board with Cyclone II FPGA
+	</figcaption>
+	</figure>
 
-<figure>
-{% assign url_results = "Personal_Projects/Brick_Breaker/Breakout_Image.png" | prepend: site.dropbox_url %}
-<a href="{{url_results}}">
-<img src="{{url_results}}" class="fullwidth" f/>
-</a>
-<figcaption>Fig. 2 - Image of the Breakout game being displayed on a monitor, pictured with the accompanying keyboard input device
-</figcaption>
-</figure>
-
+	<figure>
+	{% assign url_results = "Personal_Projects/Brick_Breaker/Breakout_Image.png" | prepend: site.dropbox_url %}
+	<a href="{{url_results}}">
+	<img src="{{url_results}}" />
+	</a>
+	<figcaption>Fig. 2 - Image of the Breakout game being displayed on a monitor, pictured with the accompanying keyboard input device
+	</figcaption>
+	</figure>
+</div>
 
 ## Technologies Used
 Quartus, Verilog, Altera DE2 Board, Hardware VGA driver, PS/2 keyboard protocol

@@ -8,10 +8,59 @@ date:   2012-01-01 12:00:00
 ---
 
 ## Description
+Atlus was a mobile location recommendation platform which enabled users to build their own exclusive network of restaurant recommendations with their friends. The company was founded in 2012 by Alex Litoiu, Evan Williams, and Mike Murchison, and received investment from The Next 36. Atlus was acquired by Purple Forge in 2013.
 
 ## Highlights
 
+* $40,000 seed funding from The Next 36
+* Acquired by Purple Forge Corp in 2013
+
+## Demo
+<div class="fullwidth-gallery">
+
+<figure>
+	<div class="video-container">
+	<iframe src="//www.youtube.com/embed/EI9toP46ji4?rel=0" frameborder="0" allowfullscreen></iframe>
+	</div>
+	<figcaption>
+	Early Atlus Demo from July 11, 2012
+	</figcaption>
+
+</figure>
+
+</div>
+
+
 ## Images
+
+<div class="gallery">
+
+	{% assign url = "Personal_Projects/Atlus/images/image1.png" | prepend: site.dropbox_url %}
+	<a href="{{url}}">
+	<img src="{{url}}" />
+	</a>
+
+	{% assign url = "Personal_Projects/Atlus/images/image2.png" | prepend: site.dropbox_url %}
+	<a href="{{url}}">
+	<img src="{{url}}" />
+	</a>
+
+	{% assign url = "Personal_Projects/Atlus/images/image3.png" | prepend: site.dropbox_url %}
+	<a href="{{url}}">
+	<img src="{{url}}" />
+	</a>
+
+</div>
+<div class="fullwidth-gallery">
+	{% assign url = "Personal_Projects/Atlus/images/image4.png" | prepend: site.dropbox_url %}
+	<a href="{{url}}">
+	<img src="{{url}}" />
+	</a>	
+</div>
+
+## Technologies
+
+Backend Tech: Python, Apache, Django, Amazon EC2, Ubuntu 12.04, haproxy, PostgreSQL, postGIS
 
 ## In the News
 

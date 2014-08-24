@@ -15,6 +15,23 @@ img.profile {
 	margin: 2% 5% 2% 0%;
 }
 
+.gallery, .fullwidth-gallery{
+	margin: 0;
+}
+
+.gallery img {
+	width: 32%;
+	margin-right:1%;
+}
+
+.fullwidth-gallery img {
+	width: 100%;
+}
+
+.fullwidth-gallery figure {
+	margin-bottom: 3%;
+}
+
 figure figcaption{
 	text-align: center;
 	font-style: italic;

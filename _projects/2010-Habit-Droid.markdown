@@ -28,6 +28,7 @@ Habit Droid shows the user a graph representing the long-term history of each ha
 * Home-screen widget
 
 ## Images
+
 ![Home screen]({{site.dropbox_url}}Personal_Projects/Habit_Droid/image1.jpg)
 ![Tracking a habit]({{site.dropbox_url}}Personal_Projects/Habit_Droid/image2.jpg)
 ![Graphing a habit]({{site.dropbox_url}}Personal_Projects/Habit_Droid/image3.jpg)
