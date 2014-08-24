@@ -36,7 +36,7 @@ navigation_index: 1
 
 		{% if project.accolade1 %}
 		<span class="accolade">
-			<img src="http://png-2.findicons.com/files/icons/2799/flat_icons/256/trophy.png"/>
+			<img src="{{site.dropbox_url}}Layout/check_green.png"/>
 			<p>{{ project.accolade1 }}</p>
 		</span>
 		{% endif %}
