@@ -121,9 +121,7 @@ figure figcaption{
 	width: 100px;
 	height: 100px;
 	float: left;
-}
-
-.thumbnail-header p.meta{
+	margin-right: 3%;
 }
 
 .thumbnail-header {
