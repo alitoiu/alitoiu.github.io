@@ -15,32 +15,35 @@ navigation_index: 1
   {% endif %}
 
   <li class="{{ even }}">
+	<div class="list-date">{{ project.date | date: "%Y" }}</div>
 
-    <span class="post-date date">{{ project.date | date: "%Y" }}</span>
+	<div class="list-substance">
+	    <div class="list-image">
+		    <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+		    	{% if project.thumbnail_rel_path %}
+			    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
+		        {% endif %}
+		    </a>	
+		</div>
 
-    <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
-    	{% if project.thumbnail_rel_path %}
-	    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
-        {% endif %}
-    </a>
+	    <div class="list-content">
 
-    <div class="list-content">
+		    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
+		    	{{project.title}}
+			</a>
 
-	    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
-	    	{{project.title}}
-		</a>
+		    <span class="description">
+		    	{{project.description}}
+			</span>
 
-	    <span class="description">
-	    	{{project.description}}
-		</span>
+			{% if project.accolade1 %}
+			<span class="accolade">
+				<img src="{{site.dropbox_url}}Layout/check_green.png"/>
+				<p>{{ project.accolade1 }}</p>
+			</span>
+			{% endif %}
 
-		{% if project.accolade1 %}
-		<span class="accolade">
-			<img src="{{site.dropbox_url}}Layout/check_green.png"/>
-			<p>{{ project.accolade1 }}</p>
-		</span>
-		{% endif %}
-
+		</div>
 	</div>
 
   </li>

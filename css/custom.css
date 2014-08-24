@@ -1,17 +1,8 @@
-.thumbnail-header {
-	margin-bottom: 50px;
-	overflow: hidden;
-}
 
-.thumbnail-header h1 {
-	display: inline-block;
-	max-width: 670px;
-}
 
-.thumbnail-header p.meta{
-}
-
-.publications ul li { margin-bottom: 20px; }
+/*
+ * Styling for media elements
+ */
 
 img.fullwidth {
 	width:100%;
@@ -45,7 +36,21 @@ figure figcaption{
 	height:100%;
 }
 
+
+/*
+ * Styling for publication page
+ */
+
+ .publications ul li { margin-bottom: 20px; }
+
+/*
+ * Starting list comments
+ */
+
 .projects li {
+	width: 100%;
+	vertical-align: top;
+
 	overflow: auto;
 	padding: 2%;
 	margin: 0%;
@@ -55,23 +60,42 @@ figure figcaption{
 	border-width: 0px 0px 1px 0px;
 }
 
-.projects li.even{
-
+.projects li .list-substance{
+	display: table;
 }
 
-.projects li.odd{
+.projects li .list-image{
+	display: table-cell;
 }
 
 .projects li .list-content{
+	display: table-cell;
+	padding-left: 3%;
+	vertical-align: top;
+	width: 100%;
 }
 
-.projects li a {
-	vertical-align: center;
+.projects li .list-date{
+	display: block;
+	float: right;
+	vertical-align: top;
+}
+
+.projects li .title {
+	display: inline-block;
+	font-size: 20px;
+	font-style: none;
+}
+
+
+
+.projects li .description {
+	display: block;
+	font-style: none;
 }
 
 .projects li .accolade{
-	overflow: auto;
-	display: inline;
+	display: block;
 }
 
 .projects li .accolade img {
@@ -85,36 +109,51 @@ figure figcaption{
 }
 
 .thumbnail {
-	float: left;
 	width:75px;
 	height:75px;
-	margin: 0% 3% 0% 0%;
 }
 
+
+/*
+ * Styling for pagetype: page
+ */ 
 .thumbnail-header .thumbnail {
 	width: 100px;
 	height: 100px;
+	float: left;
 }
 
-.projects li .title {
+.thumbnail-header p.meta{
+}
+
+.thumbnail-header {
+	margin-bottom: 50px;
+	overflow: hidden;
+}
+
+.thumbnail-header h1 {
 	display: inline-block;
-	font-style: italic;
+	max-width: 670px;
 }
 
-.projects li .description {
-	display: block;
-	font-style: italic;
-}
 
-.projects li .date {
-	float:right;
-}
+
+/*
+ * Conditional CSS for small devices
+ */
 
 @media screen and (max-width: 700px) {
 	header.list-header {
 		text-align: center;
 	}
 
+
+	/*
+	 * Make all elements of the list item stack vertically
+	 * rather than horizontally
+	 * (and remove some padding along the way to make sure
+	 * everyhing is lined up)
+	 */
 	.list-page-content {
 		text-align: center;
 	}
@@ -132,11 +171,26 @@ figure figcaption{
 		margin-left: 0px;
 	}
 
-	.list-page-content .projects li .date{
+	.list-page-content .projects li .list-substance {
 		display: block;
-		float:none;
 	}
 
+	.list-page-content .projects li .list-image{
+		display: block;
+	}
+
+	.list-page-content .projects li .list-content{
+		padding: 0%;
+		display: block;
+	}
+
+	.list-page-content .projects li .list-date{
+		float: none;
+	}
+
+	/*
+	 * Center text and image
+	 */ 
 	.list-page-content .projects li {
 		text-align: center;
 	}
@@ -148,6 +202,9 @@ figure figcaption{
 	}
 
 
+	/*
+	 * Add correct vertical spacing to elements
+	 */
 	.thumbnail {
 		float: none;
 		margin-bottom: 2%;
