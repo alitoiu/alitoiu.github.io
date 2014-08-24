@@ -160,7 +160,7 @@ figure figcaption{
 		text-align: center;
 	}
 
-	.list-page-content ul, ol{
+	.list-page-content ul, .list-page-content ol{
 		padding-left: 0px;
 		text-align: center;
 	}
