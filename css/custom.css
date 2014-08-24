@@ -132,6 +132,12 @@ figure figcaption{
 .thumbnail-header h1 {
 	display: inline-block;
 	max-width: 670px;
+
+	/* Allow individual long words to be wrapped */
+    word-break: break-word;
+	-webkit-hyphens: auto;
+   	-moz-hyphens: auto;
+    hyphens: auto;
 }
 
 
