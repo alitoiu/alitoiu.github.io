@@ -115,20 +115,20 @@ figure figcaption{
 		text-align: center;
 	}
 
-	.list-page-content .post_content {
+	.list-page-content {
 		text-align: center;
 	}
 
-	.list-page-content .post_content p {
+	.list-page-content p {
 		text-align: center;
 	}
 
-	.list-page-content .post-content ul, .post-content ol{
+	.list-page-content ul, ol{
 		padding-left: 0px;
 		text-align: center;
 	}
 
-	.list-page-content .post ul, .post ol{
+	.post ul, .post ol{
 		margin-left: 0px;
 	}
 
