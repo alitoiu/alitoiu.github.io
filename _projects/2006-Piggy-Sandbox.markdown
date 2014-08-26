@@ -9,7 +9,7 @@ date:   2006-01-01 12:00:00
 
 ## Description
 
-Piggy Sandbox was a 2-dimensional bird’s-eye view Java Game Engine on which students could build their own full featured games. I made it from scratch as a 16 year old, on my own time, before it became part of IBM.
+Piggy Sandbox was a 2-dimensional bird’s-eye view Java Game Engine on which students could build their own full featured games. I made it from scratch as a 16-year-old, on my own time, before it became part of IBM.
 
 In high school, I was fortunate enough to have the opportunity to spend my summers working at IBM in the Center for Advanced Studies, a department in IBM that deals with advanced new research technologies, and is also the primary interface between IBM and universities. 
 
