@@ -25,3 +25,17 @@ It proved to be very tough for me to release open-source code in a company as la
 Building it taught me a lot about programming, game engines, and also what it takes to push a project through in a big company. Check out the Piggy Sandbox demo!
 
 ## Demo
+
+<div class="fullwidth-gallery">
+
+<figure>
+	<div class="video-container">
+	<iframe src="//www.youtube.com/embed/Npxf8xgxOs0?rel=0" frameborder="0" allowfullscreen></iframe>
+	</div>
+	<figcaption>
+	Piggy Sandbox Demo
+	</figcaption>
+
+</figure>
+
+</div>
