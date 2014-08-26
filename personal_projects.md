@@ -5,6 +5,8 @@ permalink: /personal_projects/
 navigation_index: 1
 ---
 
+There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit since I wrote my first program at age 12. This is an archive of my process of doing so throughout the years.
+
 <ul class="posts projects">
 
 {% assign even = "even" %}
