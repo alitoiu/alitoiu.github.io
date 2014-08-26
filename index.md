@@ -4,7 +4,7 @@ layout: page
 
 <img src="{{site.dropbox_url}}Pictures/profile.jpg" class="profile"/>
 
-I'm a third year Computer Science PhD candidate working with 
+I am a third year Computer Science PhD candidate working with 
 [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) in the [Social Robotics Lab](http://scazlab.yale.edu/) at [Yale University](http://www.yale.edu/). I am interested in socially assistive robotics, artificial intelligence, intelligent tutoring systems, and machine learning. 
 
 My long-term objective is to build companions that learn your habits and skills, and give you effective, personalized advice to improve at your goals. My current research focuses on using robots to coach physical skills such as teaching a child how to shoot a basketball.
