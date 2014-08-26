@@ -11,4 +11,4 @@ More information to come following invention disclosure.
 
 ## Highlights
 
-* Received grant from Yale Entrepreneurship Institute VCP
+* $2500 grant from Yale Entrepreneurship Institute VCP
