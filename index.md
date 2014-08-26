@@ -7,7 +7,7 @@ layout: page
 I am a third year Computer Science PhD candidate working with 
 [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) in the [Social Robotics Lab](http://scazlab.yale.edu/) at [Yale University](http://www.yale.edu/). I am interested in socially assistive robotics, artificial intelligence, intelligent tutoring systems, and machine learning. 
 
-My long-term objective is to build companions that learn your habits and skills, and give you effective, personalized advice to improve at your goals. My current research focuses on using robots to coach physical skills such as teaching a child how to shoot a basketball.
+My long-term objective is to build companions that learn your habits and skills, and give you effective, personalized advice to help you accomplish your goals. My current research focuses on using robots to coach physical skills such as shooting a basketball.
 
 In 2012, I co-founded [Atlus Inc.](/projects/2012-Atlus.html), which was acquired by [Purple Forge Corp](http://www.crunchbase.com/organization/purple-forge-corp) in 2013.
 
