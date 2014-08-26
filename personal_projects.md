@@ -44,6 +44,18 @@ There is no feeling quite like pushing the limits of what you can create. I have
 				<p>{{ project.accolade1 }}</p>
 			</span>
 			{% endif %}
+			{% if project.accolade2 %}
+			<span class="accolade">
+				<img src="{{site.dropbox_url}}Layout/check_green.png"/>
+				<p>{{ project.accolade2 }}</p>
+			</span>
+			{% endif %}
+			{% if project.accolade3 %}
+			<span class="accolade">
+				<img src="{{site.dropbox_url}}Layout/check_green.png"/>
+				<p>{{ project.accolade2 }}</p>
+			</span>
+			{% endif %}
 
 		</div>
 	</div>
