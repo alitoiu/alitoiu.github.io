@@ -16,10 +16,6 @@ _Ongoing project_
 
 In-pocket mobile classifier to detect when the user has performed a golf swing based on accelerometer readings. Records location of all swings via smartphone GPS, to enable playback of a round, including distances, and shot placement statistics. Requires no manual input, unlike comparable products on the market.
 
-## Market Summary
-
-The golf economy is $60 billion, annually, with golfers spending $6 billion on equipment. Products that give golfers statistics on their rounds are achieving some early success. For example, [Game Golf](http://www.amazon.com/GAME-Digital-Tracking-System-Black/dp/B00JDZWQZK) has raised $8 million dollars, and [GolfShot](http://golfshot.com/) has made over $50 million in revenue. However, both applications require a substantial amount of input from the user. A product that requires no user input to track statistics, and that delivers meaningful advice could dominate the market.
-
 ## Highlights
 * Cross-platform event-based C++ code that runs on iPhone and Android
 * Robust signal processing and feature extraction
@@ -41,6 +37,10 @@ The golf economy is $60 billion, annually, with golfers spending $6 billion on e
 </figure>
 
 </div>
+
+## Market Summary
+The golf economy is $60 billion, annually, with golfers spending $6 billion on equipment. Products that give golfers statistics on their rounds are achieving some early success. For example, [Game Golf](http://www.amazon.com/GAME-Digital-Tracking-System-Black/dp/B00JDZWQZK) has raised $8 million dollars, and [GolfShot](http://golfshot.com/) has made over $50 million in revenue. However, both applications require a substantial amount of input from the user. A product that requires no user input to track statistics, and that delivers meaningful advice could dominate the market.
+
 
 ## Technologies Used
 C++, Boost Asio, dlib Machine Learning Library, Bash and Python Machine Learning Pipeline, dygraph Javascript visualization library, Git

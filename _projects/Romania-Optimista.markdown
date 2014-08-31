@@ -6,4 +6,4 @@ thumbnail_rel_path: "Layout/graysquare.jpeg"
 date:   2009-01-01 12:00:00
 ---
 
-RomaniaOptimista.com
+RomaniaOptimista.com information coming soon.
