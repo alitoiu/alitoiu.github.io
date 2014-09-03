@@ -13,7 +13,8 @@
     <div class="footer-col-2 column">
       <ul>
         {% if site.linkedin_url %}<li>
-          <a href="{{ site.linkedin_url }}">
+          <a href="{{ site.linkedin_url }}"
+             onclick="trackOutboundLink('{{ site.linkedin_url }}'); return false;">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -30,7 +31,8 @@
         </li>{% endif %}
 
         {% if site.github_username %}<li>
-          <a href="https://github.com/{{ site.github_username }}">
+          <a href="https://github.com/{{ site.github_username }}"
+             onclick="trackOutboundLink('https://github.com/{{ site.github_username }}'); return false;">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -49,7 +51,8 @@
           </a>
         </li>{% endif %}
         {% if site.twitter_username %}<li>
-          <a href="https://twitter.com/{{ site.twitter_username }}">
+          <a href="https://twitter.com/{{ site.twitter_username }}"
+             onclick="trackOutboundLink('https://twitter.com/{{ site.twitter_username }}'); return false;">
             <span class="icon twitter">
               <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -67,7 +70,8 @@
           </a>
         </li>{% endif %}
         {% if site.goodreads_url %}<li>
-          <a href="{{ site.goodreads_url }}">
+          <a href="{{ site.goodreads_url }}"
+             onclick="trackOutboundLink('{{ site.goodreads_url }}'); return false;">
             <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" overflow="visible" xml:space="preserve">
                 <g transform="scale(0.16)">
                 <path fill="#C2C2C2" d="M49.836,23.512c-4.609,0.133-8.029,1.993-10.26,5.58c-2.305,3.587-3.457,7.719-3.457,12.395
