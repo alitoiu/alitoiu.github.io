@@ -20,3 +20,6 @@ excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll
 collections:
   projects:
     output: true
+
+gems:
+- jekyll-sitemap
