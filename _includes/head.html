@@ -34,10 +34,9 @@
     * as the event label.
     */
     var trackOutboundLink = function(url) {
+       window.open(url); 
        ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
          function () {
-         //document.location = url;
-         window.open(url); 
          }
        });
     }
