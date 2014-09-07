@@ -7,11 +7,33 @@
 
     {% include header.html %}
 
+    {% if page.header_img_path_large %}
+    <picture>
+      <source srcset="{{ page.header_img_path_large }}" media="(min-width: 1000px)">
+      <source srcset="{{ page.header_img_path_medium }}" media="(min-width: 800px)">
+      <img srcset="{{ page.header_img_path_small }}" class="header_img">
+    </picture>
+    {% endif %}
+
+    {% if page.header_img_path_large %}
+    <div class="page-content no-padding">
+    {% else%}
     <div class="page-content">
+    {%endif%}
       <div class="wrap">
       {{ content }}
       </div>
     </div>
+
+    {% if page.footer_img_path_large %}
+    <picture>
+      <!--[if IE 9]><video style="display: none;"><![endif]-->
+      <source srcset="{{ page.footer_img_path_large }}" media="(min-width: 1000px)">
+      <source srcset="{{ page.footer_img_path_medium }}" media="(min-width: 800px)">
+      <!--[if IE 9]></video><![endif]-->
+      <img srcset="{{ page.footer_img_small }}" class="footer_img">
+    </picture>
+    {% endif %}
 
     {% include footer.html %}
 

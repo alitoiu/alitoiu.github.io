@@ -1,7 +1,12 @@
 ---
 layout: page
+header_img_path_large: http://jadeproulx.com/images/jade-wide-10.jpg
+header_img_path_medium: http://jadeproulx.com/images/jade-wide-10.jpg
+header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Pictures/profile.JPG
 ---
+{% comment %}
 <img src="{{site.dropbox_url}}Pictures/profile.jpg" class="profile"/>
+{% endcomment %}
 
 I am a third year Computer Science PhD candidate working with 
 [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) in the [Social Robotics Lab](http://scazlab.yale.edu/) at [Yale University](http://www.yale.edu/). I am interested in socially assistive robotics, artificial intelligence, intelligent tutoring systems, and machine learning. 
