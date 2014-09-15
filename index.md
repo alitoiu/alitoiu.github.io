@@ -1,7 +1,7 @@
 ---
 layout: page
 header_img_path_large: http://jadeproulx.com/images/jade-wide-10.jpg
-header_img_path_medium: http://jadeproulx.com/images/jade-wide-10.jpg
+header_img_path_medium: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Pictures/color3.jpg
 header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Pictures/profile.JPG
 ---
 {% comment %}

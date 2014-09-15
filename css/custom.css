@@ -3,8 +3,20 @@
 	background-color:#FFFD8C;
 }
 
+/* 
+ * Styling for pages with screen-wide photos
+ */
+
 .no-padding{
 	padding:0 0 0 0;
+}
+
+.no-padding .post-header{
+	margin-top: 30px;
+}
+
+.no-padding article {
+	margin-bottom: 60px;
 }
 
 /*
@@ -32,6 +44,18 @@ img.profile {
 	width:50%;
 	float:left;
 	margin: 0% 5% 2% 0%;
+}
+
+img.mini_profile {
+	width:40%;
+	float:left;
+	margin: 0% 2% 1% 0%;
+}
+
+img.mini_profile_right {
+	width:40%;
+	float:right;
+	margin: 0% 0% 1% 2%;
 }
 
 .gallery, .fullwidth-gallery{
@@ -72,6 +96,17 @@ figure figcaption{
 	height:100%;
 }
 
+/*
+ * Styling for personal page
+ */
+
+.section {
+ overflow: hidden;
+}
+
+.section p {
+ margin-bottom: 1em;
+}
 
 /*
  * Styling for publication page
@@ -182,7 +217,7 @@ figure figcaption{
  * Conditional CSS for small devices
  */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
 	header.list-header {
 		text-align: center;
 	}

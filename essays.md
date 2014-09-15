@@ -2,7 +2,7 @@
 layout: list_page
 title: Essays
 permalink: /essays/
-navigation_index: 3
+navigation_index: 4
 ---
 
 <ul class="posts">

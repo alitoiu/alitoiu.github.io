@@ -350,7 +350,7 @@ a:visited { color: #205caa; }
 
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 775px) {
 
   .wrap { padding: 0 12px; }
 

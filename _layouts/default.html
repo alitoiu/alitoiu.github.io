@@ -9,8 +9,8 @@
 
     {% if page.header_img_path_large %}
     <picture>
-      <source srcset="{{ page.header_img_path_large }}" media="(min-width: 1000px)">
-      <source srcset="{{ page.header_img_path_medium }}" media="(min-width: 800px)">
+      <source srcset="{{ page.header_img_path_large }}" media="(min-width: 1500px)">
+      <source srcset="{{ page.header_img_path_medium }}" media="(min-width: 700px)">
       <img srcset="{{ page.header_img_path_small }}" class="header_img">
     </picture>
     {% endif %}
@@ -28,8 +28,8 @@
     {% if page.footer_img_path_large %}
     <picture>
       <!--[if IE 9]><video style="display: none;"><![endif]-->
-      <source srcset="{{ page.footer_img_path_large }}" media="(min-width: 1000px)">
-      <source srcset="{{ page.footer_img_path_medium }}" media="(min-width: 800px)">
+      <source srcset="{{ page.footer_img_path_large }}" media="(min-width: 1500px)">
+      <source srcset="{{ page.footer_img_path_medium }}" media="(min-width: 700px)">
       <!--[if IE 9]></video><![endif]-->
       <img srcset="{{ page.footer_img_small }}" class="footer_img">
     </picture>
