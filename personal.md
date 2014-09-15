@@ -13,7 +13,7 @@ header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Perso
 
 <div class="section">
 <p>
-I was born in <a href="http://en.wikipedia.org/wiki/Bucharest" target="_blank">Bucharest</a>, grew up in <a href="http://en.wikipedia.org/wiki/Toronto" target="_blank">Toronto</a>, and reside in <a href="http://en.wikipedia.org/wiki/New_Haven,_Connecticut" target="_blank">New Haven</a>. 
+I was born in Bucharest, grew up in Toronto, and reside in New Haven. 
 </p>
 <p>
 I spend a lot of my free time working on <a href="/personal_projects">personal projects</a>, and learning new skills. To unwind, I read, play sports, and enjoy stand-up comedy. 
