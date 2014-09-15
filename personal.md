@@ -38,7 +38,7 @@ These days, I play soccer to stay fit and I strength train with the goal of matc
 <p>I enjoy biography, non-fiction, history, business, science fiction, and psychology.</p>
 
 <p>
-Reading a book allows you to spend 3 to 30 hours with a historical world expert that is laying out for you his or her life's work in a distilled fashion. For the past couple of years, I have read a different book every week.<a href="{{site.goodreads_url}}" target="_blank"> These are the books that I have found to be particularly enriching.</a> </p>
+Reading a book allows you to spend 3 to 30 hours with a historical world expert that is laying out for you his or her life's work in a distilled fashion. For the past couple of years, I have read a different book every week. <a href="{{site.goodreads_url}}" target="_blank">These are the books that I have found to be particularly enriching.</a> </p>
 
 </div>
 
