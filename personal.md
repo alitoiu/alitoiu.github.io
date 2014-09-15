@@ -2,11 +2,14 @@
 layout: page
 title: Personal 
 permalink: /personal/
+navigation_index: 3
+---
+
+{%comment%}
 header_img_path_large: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Personal/2014-01-11%2010.58.30.jpg
 header_img_path_medium: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Personal/2014-01-11%2010.58.30.jpg
 header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Personal/2014-01-11%2010.58.30.jpg
-navigation_index: 3
----
+{%endcomment%}
 
 <div class="section">
 <p>
