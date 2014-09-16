@@ -44,7 +44,7 @@ Reading a book allows you to spend 3 to 30 hours with a historical world expert 
 
 ## Pictures
 
-When I am in a beautiful place, or am with beautiful people, I enjoy dabbling in photography. <a href="https://plus.google.com/114623329975040741113/photos" target="_blank">Here are some of the pictures I have taken.</a>
+When I am in a beautiful place, or am with beautiful people, I enjoy dabbling in photography. <a href="https://www.flickr.com/photos/alitoiu/" target="_blank">Here are some of the pictures I have taken.</a>
 
 ## Friends
 
