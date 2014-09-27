@@ -2,10 +2,9 @@
 Main Menu
 ----------
 
-Research Publications CV | {Current Project Name} Projects Personal Essays
+Research Publications (Announcements) (Press) CV | {Current Project Name} Projects Personal Essays
 
 and, within "Projects", highlighting the startups, including the ongoing one. Linking the ongoing one to its website, rather than to a page on my website.
-
 
 ----------
 Other
