@@ -4,7 +4,7 @@ Main Menu
 
 Research Publications CV | {Current Project Name} Projects Personal Essays
 
-and, within "Projects", highlighting the startups, including the ongoing one. Linking the ongoing one to its website, rather to a page on my website.
+and, within "Projects", highlighting the startups, including the ongoing one. Linking the ongoing one to its website, rather than to a page on my website.
 
 
 ----------
