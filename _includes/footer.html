@@ -30,26 +30,7 @@
           </a>
         </li>{% endif %}
 
-        {% if site.github_username %}<li>
-          <a href="https://github.com/{{ site.github_username }}"
-             onclick="trackOutboundLink('https://github.com/{{ site.github_username }}'); return false;">
-            <span class="icon github">
-              <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                 viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
-                <path fill-rule="evenodd" clip-rule="evenodd" fill="#C2C2C2" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761
-                c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32
-                c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472
-                c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037
-                C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65
-                c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261
-                c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082
-                c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129
-                c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
-              </svg>
-            </span>
-            GitHub
-          </a>
-        </li>{% endif %}
+        
         {% if site.twitter_username %}<li>
           <a href="https://twitter.com/{{ site.twitter_username }}"
              onclick="trackOutboundLink('https://twitter.com/{{ site.twitter_username }}'); return false;">
@@ -91,7 +72,30 @@
           Goodreads
           </a>
         </li>{% endif %}
-      </ul>
+        {% if site.bitbucket_username %}<li>
+          <a href="http://bitbucket.org/{{ site.bitbucket_username }}"
+             onclick="trackOutboundLink('http://bitbucket.org/{{ site.bitbucket_username }}'); return false;">
+            <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" overflow="visible" xml:space="preserve">
+                <g transform="scale(0.018)">
+                <path fill="#C2C2C2" d="M0 144q0-60 127-102t306-42q180 0 306.5 42t126.5 102q0 12-72 440-9 46-111 89t-250 43-250-43-110-89q-73-414-73-440zm107 581l0-4q0-17 15-17 6 0 12 5 47 37 122 58t126 23l51 3q8 0 21.5-.5t52.5-5 74.5-12.5 78.5-25 73-41l11-5q16 0 16 17 0 2-1 4-22 121-30 161-11 49-96 81.5t-200 32.5-200-32.5-95-81.5q-19-95-31-161zm49-596q0 24 81.5 41.5t195.5 17.5q115 0 196.5-17t81.5-41q0-25-81.5-42.5t-196.5-17.5-196 17-81 42zm139 353q0 57 40.5 97.5t97.5 40.5 97.5-40.5 40.5-97.5-40.5-97.5-97.5-40.5-97.5 40.5-40.5 97.5zm69 0q0 28 20 48.5t49 20.5 49-20.5 20-48.5-20-48.5-49-20.5-49 20.5-20 48.5z"/></svg>
+          BitBucket
+          </a>
+        </li>{% endif %}
+        {% if site.flickr_username %}<li>
+          <a href="http://flickr.com/photos/{{ site.bitbucket_username }}"
+             onclick="trackOutboundLink('http://flickr.com/photos/{{ site.bitbucket_username }}'); return false;">
+            <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" overflow="visible" xml:space="preserve">
+                <g transform="scale(0.03)">
+                <path fill="#C2C2C2" style="display: inline;" d="M242.549,256c0,66.844-54.182,121.026-121.025,121.026C54.682,377.025,0.5,322.844,0.5,256
+                    c0-66.843,54.182-121.024,121.024-121.024C188.368,134.975,242.549,189.157,242.549,256z M390.475,134.975
+                    c-66.843,0-121.024,54.182-121.024,121.024c0,66.844,54.182,121.026,121.024,121.026c66.844,0,121.025-54.182,121.025-121.026
+                    C511.5,189.157,457.318,134.975,390.475,134.975z"></path>
+                </g>
+                </svg>
+          Flickr
+          </a>
+        </li>{% endif %}
+    </ul>
     </div>
 
     <div class="footer-col-3 column">

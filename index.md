@@ -18,10 +18,11 @@ In 2012, I co-founded [Atlus Inc.](/projects/2012-Atlus.html), which was acquire
 
 For my <a href="https://dl.dropboxusercontent.com/u/4354160/alitoiu/Curriculum_Vitae/cv.pdf" onclick="trackOutboundLink('https://dl.dropboxusercontent.com/u/4354160/alitoiu/Curriculum_Vitae/cv.pdf'); return false;">entrepreneurial and academic accomplishments</a>, I have been named one of [The Next 36](http://www.thenext36.ca/) entrepreneurial leaders of Canada, awarded an [NSERC PGS](http://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/bellandpostgrad-belletsuperieures_eng.asp) national scholarship, and two [NSERC USRA](http://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) national awards. I received my Bachelors in Applied Science in Computer Engineering at the [University of Toronto](http://www.utoronto.ca/).
 
-{% comment %}
 <span class="highlight">
 I am actively looking for collaborators for my [Golf Swing Action Recognition Project](/projects/2014-Golf-Swing-Action-Recognition.html). If this project interests you, [please get in touch](mailto:litoiu@gmail.com)!
 </span>
+{% comment %}
+
 {% endcomment %}
 
 

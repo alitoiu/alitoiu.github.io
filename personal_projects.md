@@ -5,7 +5,7 @@ permalink: /personal_projects/
 navigation_index: 1
 ---
 
-There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years.
+There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="light_highlight">Highlighted projects were successful startups.</span>
 
 <ul class="posts projects">
 
@@ -16,7 +16,13 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% else %} {% assign even = "even" %}
   {% endif %}
 
-  <li class="{{ even }}">
+  {% if project.startup %}
+  {% assign highlight = "light_highlight" %}
+  {% else %}
+  {% assign highlight = "" %}
+  {% endif %}
+
+  <li class="{{ even }} {{ highlight }}">
 	<div class="list-date">{{ project.date | date: "%Y" }}</div>
 
 	<div class="list-substance">
