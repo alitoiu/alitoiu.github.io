@@ -22,7 +22,7 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% assign highlight = "" %}
   {% endif %}
 
-  <li class="{{ even }} {{ highlight }}">
+  <li class="{{ even }}">
 	<div class="list-date">{{ project.date | date: "%Y" }}</div>
 
 	<div class="list-substance">
@@ -37,7 +37,7 @@ There is no feeling quite like pushing the limits of what you can create. I have
 	    <div class="list-content">
 
 		    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
-		    	{{project.title}}
+		    	<span class="{{highlight}}">{{project.title}}</span>
 			</a>
 
 		    <span class="description">
