@@ -42,8 +42,13 @@ There is no feeling quite like pushing the limits of what you can create. I have
 			</a>
 
 			{%if project.business%}
+			<span class="badge first-badge">
+			Startup
+			</span>
+			{%endif%}
+			{%if project.ongoing%}
 			<span class="badge">
-			Business
+			Ongoing
 			</span>
 			{%endif%}
 			</span>
@@ -51,8 +56,8 @@ There is no feeling quite like pushing the limits of what you can create. I have
 		    <span class="description">
 		    	{{project.description}}.
 
-				{%if project.demo%}<span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}#demo">DEMO</a>]</span>
-		    	{%elsif project.images %}<span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}#images">IMAGES</a>]</span>
+				{%if project.demo%}<span class="content-link"><a href="{{ project.url | prepend: site.baseurl }}#demo">[DEMO]</a></span>
+		    	{%elsif project.images %}<span class="content-link"><a href="{{ project.url | prepend: site.baseurl }}#images">[IMAGES]</a></span>
 		    	{%endif%}
 
 			</span>
