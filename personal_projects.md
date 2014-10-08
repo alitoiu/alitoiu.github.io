@@ -17,7 +17,7 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% endif %}
 
   {% if project.business %}
-  {% assign highlight = "emphasize" %}
+  {% assign highlight = "" %}
   {% else %}
   {% assign highlight = "" %}
   {% endif %}
