@@ -15,12 +15,12 @@
 }
 
 .projects li.emphasize .list-image .thumbnail {
-	width: 110px;
-	height: 110px;
+	width: 100px;
+	height: 100px;
 }
 
 .projects li.emphasize .title {
-	font-size: 26px;
+	font-size: 23px;
 }
 
 /*
