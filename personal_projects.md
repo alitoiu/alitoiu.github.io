@@ -5,7 +5,7 @@ permalink: /personal_projects/
 navigation_index: 1
 ---
 
-There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="light_highlight">Highlighted projects were successful startups.</span>
+There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. {% comment %} <span class="light_highlight">Highlighted projects were successful startups.</span> {% endcomment %}
 
 <ul class="posts projects">
 
@@ -17,17 +17,17 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% endif %}
 
   {% if project.startup %}
-  {% assign highlight = "light_highlight" %}
+  {% assign highlight = "emphasize" %}
   {% else %}
   {% assign highlight = "" %}
   {% endif %}
 
-  <li class="{{ even }} {{ highlight }}">
+  <li class="{{ even }} {{highlight}}">
 	<div class="list-date">{{ project.date | date: "%Y" }}</div>
 
 	<div class="list-substance">
 	    <div class="list-image">
-		    <a class="post-link" href="{{ project.url | prepend: site.baseurl }}">
+		    <a href="{{ project.url | prepend: site.baseurl }}">
 		    	{% if project.thumbnail_rel_path %}
 			    <img src="{{site.dropbox_url}}{{project.thumbnail_rel_path}}" class="thumbnail"/>
 		        {% endif %}
@@ -36,9 +36,11 @@ There is no feeling quite like pushing the limits of what you can create. I have
 
 	    <div class="list-content">
 
-		    <a class="post-link title" href="{{ project.url | prepend: site.baseurl }}">
+	    	<span class="title">
+		    <a href="{{ project.url | prepend: site.baseurl }}">
 		    	{{project.title}}
 			</a>
+			</span>
 
 		    <span class="description">
 		    	{{project.description}}. <span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}">DEMO</a>]</span>

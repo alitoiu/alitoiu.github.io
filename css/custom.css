@@ -3,12 +3,33 @@
 }
 
 .light_highlight{
-	background-color: #FFFFE0;
+	background-color: #e8f2e5;
 }
 
 /*
  * Styling for lists of content
  */
+
+.projects li.emphasize .list-image .thumbnail {
+	width: 120px;
+	height: 120px;
+}
+
+.projects li.emphasize .title {
+	font-size: 26px;
+}
+
+/*
+.projects li.emphasize .description {
+	font-size: 19px;
+}
+.projects li.emphasize .accolade {
+	font-size: 19px;
+}
+.projects li.emphasize .content-link {
+	font-size: 16px;
+}
+*/
 
 .content-link {
 	font-size: 12px;
