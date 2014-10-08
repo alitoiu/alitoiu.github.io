@@ -5,7 +5,7 @@ permalink: /personal_projects/
 navigation_index: 1
 ---
 
-There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="light_highlight">Highlighted projects were successful startups.</span> 
+There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="">Highlighted projects would go on to become businesses.</span> 
 
 <ul class="posts projects">
 
@@ -17,7 +17,7 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% endif %}
 
   {% if project.startup %}
-  {% assign highlight = "light_highlight" %}
+  {% assign highlight = "light_highlight emphasize" %}
   {% else %}
   {% assign highlight = "" %}
   {% endif %}

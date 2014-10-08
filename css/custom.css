@@ -3,16 +3,20 @@
 }
 
 .light_highlight{
-	background-color: #e8f2e5;
+	background-color: #ffffec;
 }
 
 /*
  * Styling for lists of content
  */
 
+.projects li.light_highlight{
+	border-width: 0 0 0 0;
+}
+
 .projects li.emphasize .list-image .thumbnail {
-	width: 120px;
-	height: 120px;
+	width: 110px;
+	height: 110px;
 }
 
 .projects li.emphasize .title {
