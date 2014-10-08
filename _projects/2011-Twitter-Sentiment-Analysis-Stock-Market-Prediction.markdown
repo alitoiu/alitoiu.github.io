@@ -4,6 +4,7 @@ title:  "Twitter Stock Market Prediction"
 thumbnail_rel_path: "Personal_Projects/Twitter_Stock_Market/thumbnail.jpg"
 accolade1: "Outstanding Design Project of the Year, UofT ECE"
 description: "Predicting the NASDAQ based on sentiment analysis of 250 Million tweets"
+images: 1
 date:   2011-01-01 12:00:00
 ---
 
@@ -13,9 +14,11 @@ In the year 2000, the value of all trades in US financial markets exceeded $500 
 
 The Stock Market is greatly influenced by investor confidence and human emotion. This project analyzed 1% of the 250,000,000 million daily tweets for the past 100 days for human emotion in order to predict the stock market performance of various financial symbols.
 
-<strong>Novelty:</strong> Our novel contributions are to experiment with identifying common pockets of sentiment using K-means clustering machine learning algorithms and drawing correlations to varied financial stocks and futures, as opposed to just a single index. There are few publications that accurately predict the stock market based on twitter. Those that claim to do so use questionable methods.
+<strong>Novelty:</strong> Our novel contributions are to experiment with identifying common pockets of sentiment using K-means clustering machine learning algorithms and drawing correlations to varied financial stocks and futures, as opposed to just a single index. There are few publications that accurately predict the stock market based on Twitter sentiment analysis. Those that claim to do so use questionable methods.
 
 <strong>Functional Requirement:</strong> Predict whether a stock, index, futures contract, exchange traded fund (ETF), fixed-income security, indicator, or mutual fund will go up or down in a future time-frame (provide an uncertainty along with this prediction)
+
+<a name="images"></a>
 
 ## System Design
 {% assign url = "Personal_Projects/Twitter_Stock_Market/Design.png" | prepend: site.dropbox_url %}

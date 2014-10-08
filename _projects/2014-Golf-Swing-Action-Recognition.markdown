@@ -3,6 +3,7 @@ layout: project
 title:  "Golf Swing Action Recognition"
 description: "In-pocket mobile classifier to detect golf swings"
 thumbnail_rel_path: "Personal_Projects/Golf_Recognition/thumbnail.png"
+demo: 1
 date:   2014-01-01 12:00:00
 ---
 
@@ -21,6 +22,8 @@ In-pocket mobile classifier to detect when the user has performed a golf swing b
 * Robust signal processing and feature extraction
 * Machine learning data pipeline
 * Efficient code takes up a fraction of iPhone 5 CPU while detecting swings
+
+<a name="demo"></a>
 
 ## Demo
 

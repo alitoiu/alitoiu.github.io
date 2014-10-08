@@ -3,6 +3,8 @@ layout: project
 title:  "FPGA Breakout"
 description: "The classic Breakout game implemented entirely in hardware"
 thumbnail_rel_path: "Personal_Projects/Brick_Breaker/title2.jpg"
+demo: 1
+images: 1
 date:   2009-01-01 12:00:00
 ---
 
@@ -22,10 +24,14 @@ The main components of the game include:
 * Tracking and Updating Game State
 * Collision Detection
 
+<a name="demo"></a>
+
 ## Demo
 <div class="video-container">
 <iframe src="//www.youtube.com/embed/ufZXXdFnxNQ?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<a name="images"></a>
 
 ## Images
 <div class="fullwidth-gallery">

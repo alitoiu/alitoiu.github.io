@@ -5,7 +5,9 @@ accolade1: "$40,000 in Seed Funding from The Next 36"
 accolade2: "Acquired by Purple Forge Corp"
 thumbnail_rel_path: "Personal_Projects/Atlus/thumbnail.png"
 description: "Mobile app for high-fidelity location recommendations between friends"
-startup: 1
+business: 1
+images: 1
+demo: 1
 date:   2012-01-01 12:00:00
 ---
 
@@ -16,6 +18,8 @@ Atlus was a mobile location recommendation platform which enabled users to build
 
 * $40,000 seed funding from The Next 36
 * Acquired by Purple Forge Corp in 2013
+
+<a name="demo"></a>
 
 ## Demo
 <div class="fullwidth-gallery">
@@ -32,6 +36,7 @@ Atlus was a mobile location recommendation platform which enabled users to build
 
 </div>
 
+<a name="images"></a>
 
 ## Images
 

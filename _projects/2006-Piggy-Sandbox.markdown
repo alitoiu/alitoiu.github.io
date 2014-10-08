@@ -4,6 +4,7 @@ title:  "Piggy Sandbox"
 thumbnail_rel_path: "Personal_Projects/Piggy_Sandbox/thumbnail.png"
 description: "A top-down educational Java game engine"
 accolade1: "Created at age 16"
+demo: 1
 date:   2006-01-01 12:00:00
 ---
 
@@ -24,6 +25,8 @@ The engine got quite far. It had a nice graphics suite, an easy way to make maps
 It proved to be very tough for me to release open-source code in a company as large and complex as IBM while possessing the political gravitas of a high-school student, so the engine never got released. It's probably laying in a hard drive somewhere at IBM.
 
 Building it taught me a lot about programming, game engines, and also what it takes to push a project through in a big company. Check out the Piggy Sandbox demo!
+
+<a name="demo"></a>
 
 ## Demo
 

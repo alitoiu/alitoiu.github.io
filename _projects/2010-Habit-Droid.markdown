@@ -4,6 +4,7 @@ title:  "Habit Droid"
 accolade1: "Over 10,000 Users"
 thumbnail_rel_path: "Personal_Projects/Habit_Droid/thumbnail.jpg"
 description: "Android application to track and graph important life habits"
+images: 1
 date:   2010-01-01 12:00:00
 ---
 
@@ -26,6 +27,8 @@ Habit Droid shows the user a graph representing the long-term history of each ha
 * Habit reminders
 * Habit tracking and graphing
 * Home-screen widget
+
+<a name="images"></a>
 
 ## Images
 

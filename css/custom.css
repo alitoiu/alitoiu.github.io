@@ -6,6 +6,24 @@
 	background-color: #ffffec;
 }
 
+.badge{
+	display: inline-block;
+	font-family: "proxima-nova", sans-serif;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #666668;
+	border: 1px solid #999;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	padding: 5px 8px;
+	vertical-align: baseline;
+	line-height: 12px;
+	position: relative;
+	top: -5px;
+	margin-left:5px;
+}
+
 /*
  * Styling for lists of content
  */
@@ -37,6 +55,7 @@
 
 .content-link {
 	font-size: 12px;
+	vertical-align: baseline;
 }
 
 /* 

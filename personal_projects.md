@@ -16,8 +16,8 @@ There is no feeling quite like pushing the limits of what you can create. I have
   {% else %} {% assign even = "even" %}
   {% endif %}
 
-  {% if project.startup %}
-  {% assign highlight = "light_highlight emphasize" %}
+  {% if project.business %}
+  {% assign highlight = "emphasize" %}
   {% else %}
   {% assign highlight = "" %}
   {% endif %}
@@ -40,10 +40,21 @@ There is no feeling quite like pushing the limits of what you can create. I have
 		    <a href="{{ project.url | prepend: site.baseurl }}">
 		    	{{project.title}}
 			</a>
+
+			{%if project.business%}
+			<span class="badge">
+			Business
+			</span>
+			{%endif%}
 			</span>
 
 		    <span class="description">
-		    	{{project.description}}. <span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}">DEMO</a>]</span>
+		    	{{project.description}}.
+
+				{%if project.demo%}<span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}#demo">DEMO</a>]</span>
+		    	{%elsif project.images %}<span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}#images">IMAGES</a>]</span>
+		    	{%endif%}
+
 			</span>
 
 			{% if project.accolade1 %}
