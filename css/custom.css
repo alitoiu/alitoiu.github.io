@@ -232,6 +232,10 @@ figure figcaption{
 	 * (and remove some padding along the way to make sure
 	 * everyhing is lined up)
 	 */
+	.wrap {
+		padding-left: 0;
+	}
+
 	.list-page-content {
 		text-align: center;
 	}
