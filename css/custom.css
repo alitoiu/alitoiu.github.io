@@ -6,6 +6,14 @@
 	background-color: #FFFFE0;
 }
 
+/*
+ * Styling for lists of content
+ */
+
+.content-link {
+	font-size: 12px;
+}
+
 /* 
  * Styling for pages with screen-wide photos
  */

@@ -41,7 +41,7 @@ There is no feeling quite like pushing the limits of what you can create. I have
 			</a>
 
 		    <span class="description">
-		    	{{project.description}}
+		    	{{project.description}}. <span class="content-link">[<a href="{{ project.url | prepend: site.baseurl }}">DEMO</a>]</span>
 			</span>
 
 			{% if project.accolade1 %}
