@@ -71,7 +71,7 @@ Python, MongoDB, scikit-learn, Ubuntu Linux, University of Toronto ECE Servers
 Outstanding Design Project of the Year in University of Toronto Electrical and Computer Engineering
 
 
-## More information
+## More Information
 [Download Poster]({{site.dropbox_url}}Personal_Projects/Twitter_Stock_Market/Poster.pdf)
 
 ## In the News

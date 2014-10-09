@@ -5,7 +5,7 @@ permalink: /personal_projects/
 navigation_index: 1
 ---
 
-There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="">Highlighted projects would go on to become businesses.</span> 
+There is no feeling quite like pushing the limits of what you can create. I have perpetually fought to extend this limit by working on technically interesting projects on my free time since the age of 12, when I wrote my first program. This is an archive of my process of doing so throughout the years. <span class="badge inline-badge first-badge">Tagged</span> projects would go on to become businesses.
 
 <ul class="posts projects">
 
