@@ -8,7 +8,7 @@ date:   2009-01-01 12:00:00
 
 ## Description
 
-Developed a question/answer web application focused on how to resolve social problems in the Romanian community. This fully featured collaborative problem-solving website allowed users to work together to take a problem all the way through from the ideation stage, to a clear definition, to finding solutions, to executing them.
+Developed a question/answer web application focused on resolving social problems in the Romanian community. This fully featured collaborative problem-solving website allowed users to work together to take a problem all the way through from the ideation stage, to a clear definition, to finding solutions, to executing them.
 
 ## Features
 
