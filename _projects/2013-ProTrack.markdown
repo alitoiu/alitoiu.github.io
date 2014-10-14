@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "ProTrack"
-description: "Computer vision smartphone golf ball flight monitor"
+description: "Computer vision mobile application to track flight trajectory of golf balls"
 thumbnail_rel_path: "Personal_Projects/ProTrack/thumbnail_no_ball_up.png"
 accolade1: "$2,500 Grant from Yale Entrepreneurship Institute VCP"
 demo: 1
