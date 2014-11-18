@@ -11,6 +11,9 @@ navigation_index: 2
 	<ul>
 		<li>
 		Bradley Hayes, Elena Corina Grigore, <strong>Alexandru Litoiu</strong>, Aditi Ramachandran, Brian Scassellati. 2014. A Developmentally Inspired Transfer Learning Approach for Skill Proficiency Assessment. In 4th International Conference on Development and Learning and on Epigenetic Robotics (ICDL 2014). IEEE, Genoa, Italy, October 13-16
+		<span class="content-link-large">
+		<a href="{{site.dropbox_url}}Publications/Papers/ICDL2014.pdf">[pdf]</a>
+		</span>
 		</li>
 
 		<li>
