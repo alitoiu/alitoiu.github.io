@@ -2,7 +2,7 @@
 layout: project
 title:  "RomaniaOptimista.com"
 description: "Social network for solving problems in the Romanian community"
-thumbnail_rel_path: "Layout/graysquare.jpeg"
+thumbnail_rel_path: "Personal_Projects/Romania_Optimista/RO.jpeg"
 date:   2009-01-01 12:00:00
 ---
 
@@ -18,3 +18,6 @@ Personal profiles, internal mailing, commenting, internationalization, full sear
 
 Ruby on Rails, Prototype Javascript library, Ajax, Textile, Sphinx, I18n, MySQL
 
+## Links
+
+[RomaniaOptimista.com](http://RomaniaOptimista.com)
