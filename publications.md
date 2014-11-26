@@ -9,6 +9,15 @@ navigation_index: 2
 
 <div class="publications">
 	<ul>
+        <li>
+        <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction. Portland, Oregon, USA, March 2-5. <em>(In Print)</em>
+            <ul>
+            <li>
+            <em>25% acceptance rate.</em>
+            </li>
+            </ul>
+        </li>
+
 		<li>
 		Bradley Hayes, Elena Corina Grigore, <strong>Alexandru Litoiu</strong>, Aditi Ramachandran, Brian Scassellati. 2014. A Developmentally Inspired Transfer Learning Approach for Skill Proficiency Assessment. In 4th International Conference on Development and Learning and on Epigenetic Robotics (ICDL 2014). IEEE, Genoa, Italy, October 13-16
 		<span class="content-link-large">
