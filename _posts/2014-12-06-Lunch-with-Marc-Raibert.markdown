@@ -26,7 +26,7 @@ Batteries are currently nowhere near energy dense enough to drive these mobile r
 
 Open-loop control is the method of control by which the engineer uses a model of how an input affects an output. In order to achieve the desired output, the engineer uses the model to determine how much input to apply. Creating the model is often very complex and time consuming. 
 
-Closed-loop control is the method of control by which the engineer does not have a model of how the input affects the output. In order to achieve the desired output, the system varies the input, then using a feedback loop, ascertains whether that change in input affected the output quantity positively or negatively. Based on this feedback, the system then applies more of the same input or less of it, to eventually iterate towards the desired output. This method is iterative, approximate, and easier to create.
+Closed-loop control is the method of control by which the engineer does not have a model of how the input affects the output. In order to achieve the desired output, the system varies the input, then using a feedback loop, ascertains whether that change in input affected the output quantity positively or negatively. Based on this feedback, the system then applies more of the same input or less of it, to eventually iterate towards the desired output. This method is iterative and easier to create.
 
 Upon being asked whether Boston Dynamics focuses more on open-loop control or closed-loop control, Dr. Raibert answered that Boston Dynamics mostly uses simple closed-loop control. “Our robots have thus far been the most capable, which is evidence that at least up until this point, simple has been the right way to go.” 
 
