@@ -6,7 +6,7 @@ categories: Robotics
 ---
 
 This year’s Nyquist Lecture in Electrical Engineering was given by Marc Raibert, ex-professor of Electrical Engineering and Computer Science at CMU and MIT, and the founder of [Boston Dynamics](https://www.youtube.com/results?search_query=boston+dynamics). I was fortunate to have the opportunity to join Dr. Raibert for lunch prior to his talk. 
-I was particularly excited about this because Boston Dynamics is a singularly technologically-advanced business.  Their robots are the most advanced in the world, and their demos are jaw-dropping. How does a company like that come to be? What are the secrets of building such an advanced product? 
+I was particularly excited about this because Boston Dynamics is a singularly technologically advanced business.  Their robots are the most advanced in the world, and their demos are jaw-dropping. If you haven't seen their demos yet, you owe it to yourself to [check them out at this link](https://www.youtube.com/results?search_query=boston+dynamics)!  How does a company like that come to be? What are the secrets of building such an advanced product? 
 
 Here are some of the surprising things that Dr. Raibert said.
 
@@ -53,3 +53,9 @@ Product design and advanced technology R&D are different skill sets. Organizatio
 Designers should “leave science fiction at the door” and build practical robots. Much of the general public feels that if we build a robot that appears human-like, it will somehow be human. However, robots are machines - they are not humans. Like all other machines, robots should be built with a particular function in mind, and their form should follow function. 
 
 Boston Dynamics has built some humanoids, which people may consider “general purpose.” But they only did so when driven by functional requirements. For example, one of their humanoids was designed for durability testing of human uniforms, and therefore needed to be in the human shape in order to wear and stress-test the uniforms.
+
+##Conclusion
+
+Prior to this lunch, Boston Dynamics seemed to me as operating in some alternate reality as far as businesses go. Instead of making a simple web app, or a commodity like toothpaste, they produce these incredible walking robots that seem to have been beamed back straight from the future. My default belief was that they must be operating on some different principals than most other businesses: that they had a longer time-constant, that they had a way to manage very complex models, or that they had a more philosophical view of the future than other companies. 
+
+In fact, the opposite seems to be true. Boston Dynamics' laser-like focus on pragmatic, common sense principals enables them to create this amazing technology. Their robots are specifically functional, built with simple models, in an iterative way. Having the opportunity to briefly peer inside Boston Dynamics was a nice reminder that it is these basic fundamentals that are at the core of even technological outliers.
