@@ -14,7 +14,7 @@ Here are some of the surprising things that Dr. Raibert said.
 
 What is the biggest limitation to mobile robots? It isn’t perception, it isn’t control algorithms, it is power storage and delivery. Currently, robots are far less efficient than humans and far noisier. 
 
-To illustrate this limitation, take the Big Dog robot. The robot is driven by a ~15 horsepower gas-hungry Go-Kart engine. The engine drives a compressor that pressurizes oil to 3,000 PSI. The legs then move based on the variable firing of actuators in the legs, allow the pressurized oil to flow in.
+To illustrate this limitation, take the Big Dog robot. The robot is driven by a ~15 horsepower gas-hungry Go-Kart engine. The engine drives a compressor that pressurizes oil to 3,000 PSI. The legs then move based on the variable firing of actuators in the legs, allowing the pressurized oil to flow in.
 
 Whereas a human is perfectly silent while walking, Big Dog is loud - as loud as a Go-Kart. Whereas a human can walk hundreds of miles without sustenance, Big-Dog can walk 10 miles.
 
