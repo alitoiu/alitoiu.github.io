@@ -9,8 +9,13 @@ navigation_index: 2
 
 <div class="publications">
 	<ul>
+
         <li>
-        <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction. Portland, Oregon, USA, March 2-5. <em>(In Print)</em>
+        <strong>Alexandru Litoiu</strong>, Brian Scassellati. 2015. Robotic Coaching of Complex Physical Skills. In Proceedings of the HRI Pioneers Workshop at the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2. <em>(In Print)</em>
+        </li>
+
+        <li>
+        <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2-5. <em>(In Print)</em>
             <ul>
             <li>
             <em>25% acceptance rate.</em>
