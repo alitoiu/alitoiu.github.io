@@ -11,16 +11,22 @@ navigation_index: 2
 	<ul>
 
         <li>
-        <strong>Alexandru Litoiu</strong>, Brian Scassellati. 2015. Robotic Coaching of Complex Physical Skills. In Proceedings of the HRI Pioneers Workshop at the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2. <em>(In Print)</em>
-        </li>
-
-        <li>
-        <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2-5. <em>(In Print)</em>
-            <ul>
+        <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2-5 
+		<span class="content-link-large">
+		<a href="{{site.dropbox_url}}Publications/Papers/HRI2015.pdf">[pdf]</a>
+		</span>
+        <ul>
             <li>
             <em>25% acceptance rate.</em>
             </li>
             </ul>
+        </li>
+
+        <li>
+        <strong>Alexandru Litoiu</strong>, Brian Scassellati. 2015. Robotic Coaching of Complex Physical Skills. In Proceedings of the HRI Pioneers Workshop at the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2 
+		<span class="content-link-large">
+		<a href="{{site.dropbox_url}}Publications/Papers/HRIPioneers2015.pdf">[pdf]</a>
+		</span>
         </li>
 
 		<li>
@@ -51,6 +57,12 @@ navigation_index: 2
 <div class="publications">
 	<ul>
 		<li>
+			Evidence that Robots Trigger a Cheating Detector in Humans. 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, March 4
+			<span class="content-link-large">
+			<a href="{{site.dropbox_url}}Publications/Talks/HRI2015/HRI2015.pdf">[pdf]</a>
+			<a href="{{site.dropbox_url}}Publications/Talks/HRI2015/HRI2015.ppsx">[ppsx with video]</a></span>
+		</li>
+		<li>
 			Personalized Instruction of Physical Skills with a Social Robot. Machine Learning for Interactive Systems Workshop at AAAI 2014. Quebec City, Canada, July 28 
 			<span class="content-link-large">
 			<a href="{{site.dropbox_url}}Publications/Talks/MLIS2014/MLIS2014.pdf">[pdf]</a>
@@ -66,6 +78,16 @@ navigation_index: 2
 
 <div class="publications">
 	<ul>
+		<li>
+			Evidence that Robots Trigger a Cheating Detector in Humans. 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, March 4 
+			<span class="content-link-large"> 
+			<a href="{{site.dropbox_url}}Publications/Posters/HRI2015.pdf">[pdf]</a></span>
+		</li>
+		<li>
+			Robotic Coaching of Complex Physical Tasks. HRI Pioneers Workshop at the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, March 2
+			<span class="content-link-large"> 
+			<a href="{{site.dropbox_url}}Publications/Posters/HRIPioneers2015.pdf">[pdf]</a></span>
+		</li>
 		<li>
 			Cheating Robots: Manipulating Perceptions of Robot Agency. "Robotics Exhibition" at CogSci/AAAI 2014. Quebec City, Canada, July 26-30
 			<span class="content-link-large"> 
