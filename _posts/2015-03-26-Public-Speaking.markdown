@@ -12,7 +12,7 @@ An important reason why public speaking can be very stressful is a skewed world 
 
 In Elaine Aron's book, The Undervalued Self, she outlines the difference between "ranking" and "linking." Many people, especially men, "rank" (compete), too much and don't spend enough time "linking" (loving one another). Thinking of the world too much in terms of competition can cause one to be very wound up.
 
-How one views the world on a daily basis affects how one views the world during specific tasks. I try to spend far more hours outside of the speech viewing the world as "linking", and far fewer as "ranking." This, in turn, becomes how I view the audience during the speech. If one "links" enough with those around them on a daily basis, the audience appears more like a group of friends. Why would one be nervous in front of friends?
+How one views the world on a daily basis affects how one views the world during specific tasks. I try to spend far more hours outside of the speech viewing the world as "linking" and far fewer as "ranking." This, in turn, becomes how I view the audience during the speech. If one "links" enough with those around them on a daily basis, the audience appears more like a group of friends. Why would one be nervous in front of friends?
 
 ### Releasing Oxytocin
 
