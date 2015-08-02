@@ -28,7 +28,7 @@ I used to play soccer and tennis competitively, winning a number of national cha
 </p>
 
 <p>
-These days, I play soccer, play tennis, and <a href="http://www.strava.com/athletes/alitoiu" target="_blank">cycle</a> to stay fit. I am beginning a regimen to cycle 113 total road bike or mountain bike miles every week. I strength train with the goal of matching <a href="http://youtu.be/0mlkVwZVPN8?t=4m43s" target="_blank">Rich Froning's 1020 lb clean, overhead squat, and bench press total.</a>
+These days, I play soccer, play tennis, and <a href="http://www.strava.com/athletes/alitoiu" target="_blank">cycle</a> to stay fit. I am beginning a cycling regimen of 113 total road or mountain bike miles per week. I strength train with the goal of matching <a href="http://youtu.be/0mlkVwZVPN8?t=4m43s" target="_blank">Rich Froning's 1020 lb clean, overhead squat, and bench press total.</a>
 </p>
 
 </div>
