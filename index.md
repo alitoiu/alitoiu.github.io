@@ -9,7 +9,7 @@ header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Pictu
 {% endcomment %}
 <img src="{{site.dropbox_url}}Pictures/profile.jpg" class="profile"/>
 
-I am a third year Computer Science PhD candidate working with 
+I am a Software Engineer at [Facebook](http://facebook.com) on a leave of absence from being a Computer Science PhD candidate with 
 [Brian Scassellati](http://cs-www.cs.yale.edu/homes/scaz/) in the [Social Robotics Lab](http://scazlab.yale.edu/) at [Yale University](http://www.yale.edu/). I am interested in socially assistive robotics, artificial intelligence, intelligent tutoring systems, and machine learning. 
 
 My long-term objective is to build companions that learn your habits and skills, and give you effective, personalized advice to help you accomplish your goals. To that end, my current research focuses on using robots to coach physical skills such as shooting a basketball.
