@@ -13,7 +13,7 @@ header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Perso
 
 <div class="section">
 <p>
-I was born in Bucharest, grew up in Toronto, and reside in New Haven. 
+I was born in Bucharest, grew up in Toronto, went to school in New Haven, and reside in Redwood City. 
 </p>
 <p>
 I spend a lot of my free time working on <a href="/personal_projects">personal projects</a>, and learning new skills. To unwind, I read, play sports, and enjoy stand-up comedy. 
@@ -28,7 +28,7 @@ I used to play soccer and tennis competitively, winning a number of national cha
 </p>
 
 <p>
-These days, I play soccer, play tennis, ski, and <a href="http://www.strava.com/athletes/alitoiu" target="_blank">cycle</a> to stay fit. I am beginning a cycling regimen of 113 miles per week. I strength train with the goal of matching <a href="http://youtu.be/0mlkVwZVPN8?t=4m43s" target="_blank">Rich Froning's 1020 lb clean, overhead squat, and bench press total.</a>
+These days, I <a href="http://www.strava.com/athletes/alitoiu" target="_blank">cycle</a> to stay fit and I strength train with the goal of matching <a href="http://youtu.be/0mlkVwZVPN8?t=4m43s" target="_blank">Rich Froning's 1020 lb clean, overhead squat, and bench press total.</a>
 </p>
 
 </div>
