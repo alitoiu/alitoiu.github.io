@@ -11,15 +11,30 @@ navigation_index: 2
 	<ul>
 
         <li>
+        Aditi Ramachandran, <strong>Alexandru Litoiu</strong>, Brian Scassellati. 2016. Shaping Productive Help-Seeking Behavior During Robot-Child Tutoring Interactions. To Appear: In Proceedings of the 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2016). Christchurch, New Zealand, March 7-10
+        <ul class="sub">
+            <li>
+            <em>25% acceptance rate.</em>
+            </li>
+        </ul>
+        </li>
+
+        <li>
         <strong>Alexandru Litoiu</strong>, Daniel Ullman, Jason Kim, Brian Scassellati. 2015. Evidence that Robots Trigger a Cheating Detector in Humans. In Proceedings of the 10th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2015). Portland, Oregon, USA, March 2-5 
 		<span class="content-link-large">
 		<a href="{{site.dropbox_url}}Publications/Papers/HRI2015.pdf">[pdf]</a>
 		</span>
-        <ul>
+        <ul class="sub">
             <li>
             <em>25% acceptance rate.</em>
             </li>
-            </ul>
+            <li>
+            <em>Reading material for Yale Introduction to Cognitive Science (CGSC 110 / PSYC 130).</em>
+            <span class="content-link-large">
+            <a href="{{site.dropbox_url}}Other/CGSC110.pdf">[pdf]</a>
+            </span>
+            </li>
+        </ul>
         </li>
 
         <li>

@@ -184,6 +184,8 @@ figure figcaption{
 
  .publications ul li { margin-bottom: 20px; }
 
+ .publications ul.sub li {margin-bottom: 0px; }
+
 /*
  * Starting list comments
  */
