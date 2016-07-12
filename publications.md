@@ -16,6 +16,12 @@ navigation_index: 2
             <li>
             <em>25% acceptance rate.</em>
             </li>
+            <li>
+            <em>Nominated for the Best HRI Study Award.</em>
+            <span class="content-link-large">
+            <a href="{{site.dropbox_url}}Publications/Awards/HRI2016BestStudyNomination.pdf">[pdf]</a>
+            </span>
+            </li>
         </ul>
         </li>
 
