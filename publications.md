@@ -12,12 +12,15 @@ navigation_index: 2
 
         <li>
         Aditi Ramachandran, <strong>Alexandru Litoiu</strong>, Brian Scassellati. 2016. Shaping Productive Help-Seeking Behavior During Robot-Child Tutoring Interactions. To Appear: In Proceedings of the 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2016). Christchurch, New Zealand, March 7-10
+		<span class="content-link-large">
+		<a href="{{site.dropbox_url}}Publications/Papers/HRI2016.pdf">[pdf]</a>
+		</span>
         <ul class="sub">
             <li>
             <em>25% acceptance rate.</em>
             </li>
             <li>
-            <em>Nominated for the Best HRI Study Award.</em>
+            <em>Best paper award nomination for "Studies of HRI".</em>
             <span class="content-link-large">
             <a href="{{site.dropbox_url}}Publications/Awards/HRI2016BestStudyNomination.pdf">[pdf]</a>
             </span>
