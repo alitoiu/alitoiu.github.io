@@ -5,7 +5,7 @@ permalink: /publications/
 navigation_index: 2
 ---
 
-##Peer-Reviewed Publications
+## Peer-Reviewed Publications
 
 <div class="publications">
 	<ul>
@@ -98,7 +98,7 @@ navigation_index: 2
 
 
 
-##Posters
+## Posters
 
 <div class="publications">
 	<ul>
