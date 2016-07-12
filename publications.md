@@ -76,7 +76,7 @@ navigation_index: 2
 	</ul>
 </div>
 
-##Talks
+## Talks
 
 <div class="publications">
 	<ul>
