@@ -10,7 +10,7 @@ I was particularly excited about this because Boston Dynamics is a singularly te
 
 Here are some of the surprising things that Dr. Raibert said.
 
-##“The biggest limitation in mobile robots is power"
+## “The biggest limitation in mobile robots is power"
 
 What is the biggest limitation to mobile robots? It isn’t perception, it isn’t control algorithms, it is power storage and delivery. Currently, robots are far less efficient than humans and far noisier. 
 
@@ -22,7 +22,7 @@ Things have improved in recent years. Alpha Dog is now quieter than Big Dog, can
 
 Batteries are currently nowhere near energy dense enough to drive these mobile robots. “It is hard to see enough battery improvements coming in the near future to afford their use in mobile robots." 
 
-##“Simple designs"
+## “Simple designs"
 
 Open-loop control is the method of control by which the engineer uses a model of how an input affects an output. In order to achieve the desired output, the engineer uses the model to determine how much input to apply. Creating the model is often very complex and time consuming. 
 
@@ -32,13 +32,13 @@ Upon being asked whether Boston Dynamics focuses more on open-loop control or cl
 
 I found this answer to be particularly surprising. Whereas PetMan, Alpha Dog, and Cheatah look to be the furthest thing from simple from the outside, the mechanism that drives them is the simplest available. 
 
-##“Calibrate your time-constant"
+## “Calibrate your time-constant"
 
 Expanding upon the answer on the Boston Dynamics brand of control theory, Dr. Raibert briefly took a step back to wax philosophical. Some people choose a grand project that is very far away, whereas others focus on an approach that will work now, and then iterate on that approach.
 
 “I happen to believe that by taking the latter approach, you are more likely to reach your grand vision, but some people don’t agree.” We all have to choose which time constant we are aiming for. Boston Dynamics has chosen the short, iterative time constant, which has thus far led to the world’s most advanced robots.
 
-##“Decide who you are”
+## “Decide who you are”
 
 One may think that “the world’s most advanced all-terrain mobile robots” is a pretty specific mission statement.
 
@@ -48,13 +48,13 @@ According to Dr. Raibert, you need to be even more specific. Why aren’t their 
 
 Product design and advanced technology R&D are different skill sets. Organizations that do both often have problems straddling. Having to choose which of the skills to divert precious engineers to is a real problem. Some robot companies suffer from this straddling. For example, iRobot does both military robots and the Roomba. Moving in both of these directions can cause resource conflicts.
 
-##“Specific functions”
+## “Specific functions”
 
 Designers should “leave science fiction at the door” and build practical robots. Much of the general public feels that if we build a robot that appears human-like, it will somehow be human. However, robots are machines - they are not humans. Like all other machines, robots should be built with a particular function in mind, and their form should follow function. 
 
 Boston Dynamics has built some humanoids, which people may consider “general purpose.” But they only did so when driven by functional requirements. For example, one of their humanoids was designed for durability testing of human uniforms, and therefore needed to be in the human shape in order to wear and stress-test the uniforms.
 
-##Conclusion
+## Conclusion
 
 Prior to this lunch, Boston Dynamics seemed to me as operating in some alternate reality as far as businesses go. Instead of making a simple web app, or a commodity like toothpaste, they produce these incredible walking robots that seem to have been beamed back straight from the future. My default belief was that they must be operating on some different principals than most other businesses: that they had a longer time-constant, that they had a way to manage very complex models, or that they had a more philosophical view of the future than other companies. 
 
