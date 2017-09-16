@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-external_link: http://alitoiu.com/Curriculum_Vitae/cv.pdf
+external_link: http://alitoiu.com/static/Curriculum_Vitae/cv.pdf
 last_page_in_section: yes
 navigation_index: 5
 ---
