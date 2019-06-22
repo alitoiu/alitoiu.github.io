@@ -10,7 +10,7 @@ This is an e-mail that I sent to my relatives last night. It's written in broken
 
 > De multe ori lumea, in mod particular Romani, imi au spus ca nu au nici o ideie la ce ma refer cand eu vorbesc de minciuni intre Romani. Am incercat sa rafinez ideia un pic prin zicand ca ma refer la spunand adevarul despre experienta interna subiectiva - apropos emoti. Fiind autentic apropos la cum ne simptim.
 
-> Mai specific este ideia de "Preference Falsification." https://en.wikipedia.org/wiki/Preference_falsification
+> Mai specific este ideia de "Preference Falsification." <a href="https://en.wikipedia.org/wiki/Preference_falsification">https://en.wikipedia.org/wiki/Preference_falsification</a>
 
 > Care cum stiti este ce sa intamplat in comunism. Toata lumea se facea ca lucrurile ereau bune cand nu ereau. Puneau zambetul pe buze si nu vorbeau despre probleme. E foarte clar de ce ar face lumea aia in situatia aia, in care erea un guvern tiranic.
 
