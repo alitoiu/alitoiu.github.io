@@ -4,7 +4,7 @@ title:  "Preference Falsification"
 date:   2019-06-22 07:00:00
 ---
 
-This is an e-mail that I sent to my relatives last night. It's written in broken Romanian but I'm posting it for posterity since I believe it's an important concept. Would greatly appreciate spelling and grammar corrections sent to my personal e-mail.
+This is an e-mail that I sent to my relatives last night. It's written in broken Romanian but I'm posting it for posterity since I believe it's an important concept. I would greatly appreciate spelling and grammar corrections sent to my personal e-mail.
 
 > Am vazut azi un discurs de un psycologist care se numeste Jonathan Haidt. S-a referit la un fenomen care se chiama Preference Falsification.
 
