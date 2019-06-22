@@ -24,6 +24,6 @@ This is an e-mail that I sent to my relatives last night. It's written in broken
 
 > Eu cred personal ca comunismul ne-a detasat asa de tare de la corpurile noastre ca lumea nici nu mai stie ce crede.
 
-> E acelasi motiv pentru care au predat doar materiale obiective ca informatica si mate. A antrenat o intreaga generatie sa stea doar in domeniu al ganduri - care pot fi puse acolo de alti. Si a detasat atentia de la coruprile personale ale fiecare.
+> E acelasi motiv pentru care au predat doar materiale obiective ca informatica si mate. A antrenat o intreaga generatie sa stea doar in domeniu al ganduri - care pot fi puse acolo de alti. Si a detasat atentia de la corpurile personale ale fiecare.
 
 > Pare sa fie si o carte pe subiectul asta care nu am citit-o inca, care se chiama Private Truth, Public Lies.
