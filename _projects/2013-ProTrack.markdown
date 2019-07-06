@@ -46,4 +46,4 @@ All algorithms and software were written in high-performance, cross platform C++
 C++, Python, OpenCV, CMake, Git
 
 ## More Information
-Before building a smartphone-based golf ball flight tracker, the plan was to build an inexpensive radar to serve the same purpose. [Here is the original slide deck for that idea.](https://dl.dropboxusercontent.com/u/4354160/alitoiu/Personal_Projects/ProTrack/ProTrack_Deck.pdf)
+Before building a smartphone-based golf ball flight tracker, the plan was to build an inexpensive radar to serve the same purpose. [Here is the original slide deck for that idea.](https://www.dropbox.com/s/stlu2olttwz5gfo/ProTrack_Deck.pdf?dl=0)
