@@ -4,7 +4,7 @@ title:  "Holden Caulfield"
 date:   2019-07-24 07:00:00
 ---
 
-Another e-mail I wrote, related somewhat to [Preference Falsification]({% post_url 2019-06-22-Preference-Falsification %}) on the subject of Holden Caulfield from the book, *The Catcher in the Rye*.
+Another e-mail I wrote, relating somewhat to [Preference Falsification]({% post_url 2019-06-22-Preference-Falsification %}), focused on Holden Caulfield from the book, *The Catcher in the Rye*.
 
 > Hi _______,
 
