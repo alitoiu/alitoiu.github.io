@@ -9,7 +9,7 @@ header_img_path_small: https://dl.dropboxusercontent.com/u/4354160/alitoiu/Pictu
 {% endcomment %}
 <img src="{{site.dropbox_url}}Pictures/profile.jpg" class="profile"/>
 
-I am a software engineer currently spending my time writing a book about my experiences with burnout and recovery. I am interested in machine learning, artificial intelligence, and intelligent tutoring systems.
+I am a software engineer spending my time writing a book about my experiences with burnout and recovery. I am interested in machine learning, artificial intelligence, and intelligent tutoring systems.
 
 Prior to that, I worked at [Facebook](http://facebook.com) using machine learning to keep users safe from fraudulent and offensive content. 
 
